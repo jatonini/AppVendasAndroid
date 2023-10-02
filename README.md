@@ -2,9 +2,9 @@
 
 PORTUGUÊS 
 
-"Este aplicativo foi desenvolvido utilizando a linguagem Python, juntamente com a biblioteca Kivy, que é amplamente utilizada na criação de aplicativos mobile. Este app tem como objetivo a venda de produtos de vários estabelecimentos, com diversas funcionalidades, como criar uma venda, acompanhar as vendas de outro usuário do aplicativo, editar a foto do perfil do usuário e, obviamente, permitir que você crie uma conta de usuário que será salva no banco de dados, armazenando todas as alterações feitas inicialmente dentro da conta.
+Este aplicativo foi desenvolvido utilizando a linguagem Python, juntamente com a biblioteca Kivy, que é amplamente utilizada na criação de aplicativos mobile. Este app tem como objetivo a venda de produtos de vários estabelecimentos, com diversas funcionalidades, como criar uma venda, acompanhar as vendas de outro usuário do aplicativo, editar a foto do perfil do usuário e, obviamente, permitir que você crie uma conta de usuário que será salva no banco de dados, armazenando todas as alterações feitas inicialmente dentro da conta.
 
-O banco de dados utilizado foi o Firebase devido à sua facilidade de acesso, quase como se fosse uma API, utilizando métodos como solicitações POST, entre outros."
+O banco de dados utilizado foi o Firebase devido à sua facilidade de acesso, quase como se fosse uma API, utilizando métodos como solicitações POST, entre outros.
 
 ENGLISH
 
